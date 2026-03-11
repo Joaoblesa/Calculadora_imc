@@ -26,6 +26,4 @@ O layout principal consiste em:
 1.  Exibição do resultado (Valor do IMC e Classificação).
 2.  Botão de ação personalizado ("CALCULAR").
 
-## 💻 Exemplo de Código (Botão Personalizado)
-
 <img width="253" height="447" alt="Captura de Tela 2026-03-11 às 16 34 51" src="https://github.com/user-attachments/assets/160f7354-1759-43b5-bc2d-1891d1865d32" />
