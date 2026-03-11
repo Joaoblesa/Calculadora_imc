@@ -17,8 +17,6 @@ Uma calculadora de Índice de Massa Corporal (IMC) moderna e minimalista, desenv
 
 * **Kotlin**: Linguagem principal.
 * **Jetpack Compose**: Toolkit moderno para construção de UI nativa.
-* **Material Design 3**: Padrões de design mais recentes do Google.
-* **Compose Modifiers**: Para controle preciso de layout e espaçamento.
 
 ## 📸 Demonstração do Layout
 
